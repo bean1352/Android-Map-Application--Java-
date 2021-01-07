@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinneritems">
+        <item>
+            Metric System
+        </item>
+        <item>
+            Imperial System
+        </item>
+    </string-array>
+    <string-array name="spinneritems1">
+        <item>
+            Car
+        </item>
+        <item>
+            Walking
+        </item>
+        <item>
+            Cycling
+        </item>
+        <item>
+            Public Transport
+        </item>
+        <item>
+            Other
+        </item>
+    </string-array>
+</resources>

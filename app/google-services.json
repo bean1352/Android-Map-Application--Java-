@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080713675606",
+    "firebase_url": "https://opsctask2-d18c7.firebaseio.com",
+    "project_id": "opsctask2-d18c7",
+    "storage_bucket": "opsctask2-d18c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080713675606:android:6fa767de64f81d6932ccf7",
+        "android_client_info": {
+          "package_name": "com.example.opsctask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080713675606-pcg47uuddre14usd9fs4aqck3g6vf570.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opsctask2",
+            "certificate_hash": "cca0e9f8583a91a03d53d9b0bde49c3d91c21147"
+          }
+        },
+        {
+          "client_id": "1080713675606-3ha69o77dd9mqguvbc1kjkah3jpaqd87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTj9YkraZjZrXXQwvoB5KW0iSx9iELRxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080713675606-3ha69o77dd9mqguvbc1kjkah3jpaqd87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
